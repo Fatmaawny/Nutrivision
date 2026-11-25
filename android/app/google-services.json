@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "889480397679",
+    "project_id": "mealio-project-4b9bd",
+    "storage_bucket": "mealio-project-4b9bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889480397679:android:2601ef2ef1e9a65f6c5e9a",
+        "android_client_info": {
+          "package_name": "com.example.mealio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889480397679-anhbfcbtnj9b6i0i46nr8jgqp8qfmgpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPbRxdZfeUz4oUCcOYg_pX2FVHixfWhEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889480397679-anhbfcbtnj9b6i0i46nr8jgqp8qfmgpc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "889480397679-c3cfvf9frq4sqf2hrq6i2i8sk5m6r2ra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mealio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
